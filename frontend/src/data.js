@@ -1,0 +1,55 @@
+const data = {
+    products: [ 
+        {
+            _id:'1',
+            name:'Up t100x',
+            category:'Shirts',
+            image:'/images/rania.png',
+            price:'120',
+            brand:'BMShop',
+            rating:4.5,
+            description:'High quality product',
+        },
+        {
+            _id:'2',
+            name:'Up t100x',
+            category:'Shirts',
+            image:'/images/rania.png',
+            price:'120',
+            brand:'BMShop',
+            rating:4.5,
+            description:'High quality product',
+        },
+        {
+            _id:'3',
+            name:'Up t100x',
+            category:'Shirts',
+            image:'/images/rania.png',
+            price:'120',
+            brand:'BMShop',
+            rating:4.5,
+            description:'High quality product',
+        },
+        {
+            _id:'4',
+            name:'Up t100x',
+            category:'Shirts',
+            image:'/images/rania.png',
+            price:'120',
+            brand:'BMShop',
+            rating:4.5,
+            description:'High quality product',
+        },
+        {
+            _id:'5',
+            name:'Up t100x',
+            category:'Shirts',
+            image:'/images/rania.png',
+            price:'120',
+            brand:'BMShop',
+            rating:4.5,
+            description:'High quality product',
+        },
+    ]
+};
+export default data;
